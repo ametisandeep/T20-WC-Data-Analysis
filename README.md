@@ -1,12 +1,12 @@
 **Project Overview**
 
-This project presents a dynamic PowerBI dashboard that identifies and showcases the best 11 players from the T20 World Cup 2022. 
+This project presents a dynamic PowerBI dashboard that identifies and showcases the best 11 T20 World Cup 2022 players. 
 
 **Features**
 
-**Data Collection:** Web scraping scripts to gather player statistics from ESPN CricInfo
+**Data Collection:** Web scraping JAVA Scripts to gather player statistics from ESPN Cricinfo
 
-**Data Cleaning:** Utilization of Python Pandas for efficient cleaning and preparation of raw data.
+**Data Cleaning:** Utilization of Python Pandas for efficient raw data cleaning and preparation.
 
 **Visualization:** A comprehensive PowerBI dashboard offering interactive and detailed insights into players' performances, including runs scored, wickets taken, 
 strike rates, and more.
